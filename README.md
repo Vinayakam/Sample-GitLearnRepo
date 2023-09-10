@@ -1,3 +1,3 @@
 # Sample-GitLearnRepo
 
-It's the simple description.
+Description goes here.
